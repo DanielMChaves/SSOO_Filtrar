@@ -4,7 +4,7 @@
 
 **Curso:** 2014/2015
 
-**Autores:** [Daniel Melero Chaves] (https://github.com/DanielMChaves)
+**Autores:** [Daniel Melero Chaves](https://github.com/DanielMChaves)
 
 **Lenguaje:** C
 
